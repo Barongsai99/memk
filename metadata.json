@@ -1,0 +1,6 @@
+{
+  "name": "PixelSave",
+  "description": "Aplikasi catat keuangan bertema Retro 8-Bit / 90s OS dengan kalkulasi saldo otomatis dan pelacak progres tabungan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

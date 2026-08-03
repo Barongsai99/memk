@@ -1,0 +1,24 @@
+{
+  "name": "PixelSave",
+  "short_name": "PixelSave",
+  "description": "Aplikasi Catat Keuangan & Tabungan Retro 8-Bit",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#005ac2",
+  "theme_color": "#005ac2",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1006/1006583.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1006/1006583.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
